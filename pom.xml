@@ -12,6 +12,7 @@
         <module>fuji-video</module>
         <module>fuji-chat</module>
         <module>fuji-common</module>
+        <module>fuji-user</module>
     </modules>
 
     <build>
